@@ -1,6 +1,6 @@
-# gelirgider_app
+# GelirGider 
 
-GelirGider Takip Uygulaması
+Bütçe Takip Uygulaması
 
 ## Getting Started
 
